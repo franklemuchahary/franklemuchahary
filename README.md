@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Frankle and I have almost 4 years of experience as a Data Scientist. I have worked on a wide range of retail analytics problems in the past few years related mainly to pricing optimization, promotion optimization, coupon redemption propensity modelling, and inventory allocation optimization.
+
+I am proficient in technologies like PostgreSQL, BigQuery, MySQL, Python, R, Tableau, MS Excel. I am also currently teaching myself Scala.
+
+📫 How to reach me:
+- LinkedIn:  https://www.linkedin.com/in/franklemuchahary03/
+- Kaggle: https://www.kaggle.com/franklemuchahary
+- HackerRank: https://www.hackerrank.com/franklemuchahary
