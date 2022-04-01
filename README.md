@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Frankle and I have around 3.5 years of experience as a Data Scientist. I have worked on a wide range of retail analytics problems in the past few years related mainly to pricing optimization, promotion optimization, coupon redemption propensity modelling, and inventory allocation optimization.
+I'm Frankle and I have around 3.5 years of experience working as a Data Scientist. I have worked on a wide range of retail analytics problems in the past few years related mainly to pricing optimization, promotion optimization, coupon redemption propensity modelling, and inventory allocation optimization.
 
 I am proficient in technologies like PostgreSQL, BigQuery, MySQL, Python, R, Tableau, MS Excel. I am also currently teaching myself Scala.
 
