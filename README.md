@@ -24,5 +24,3 @@ I am proficient in technologies like **PostgreSQL**, **BigQuery**, **MySQL**, **
 - Tableau: https://public.tableau.com/app/profile/frankle.muchahary
 - HackerRank: https://www.hackerrank.com/franklemuchahary
 - Kaggle: https://www.kaggle.com/franklemuchahary
-
-<meta name="google-site-verification" content="6rciIMxC7RvHQ4WAuvR7-6eabj5NmOQwF2fqA7cHlho" />
