@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm Frankle and I have 4 years of experience working as a Data Scientist. I have worked on a wide range of retail analytics problems in the past few years related to **pricing optimization**, **promotion optimization**, **coupon redemption propensity analysis**, **customer churn analysis**, and **inventory allocation optimization**.
 
-I am proficient in technologies like **PostgreSQL**, **BigQuery**, **MySQL**, **Python**, **R**, **PHP**, **C#**, **.NET**, **Tableau**, and **MS Excel**. I also have some knowledge of **Bash Scripting** and some experience in **backend development using Python and PHP**. I enjoy automating basic repetitive tasks with Python.
+I am proficient in technologies like **PostgreSQL**, **BigQuery**, **MySQL**, **Python**, **R**, **PHP**, **C#**, **.NET**, **Tableau**, and **MS Excel**. I also have some knowledge of **Bash Scripting** and some experience in **backend development using Python, .NET, and PHP**. I enjoy automating basic repetitive tasks with Python.
 
 📫 How to reach me:
 - LinkedIn:  https://www.linkedin.com/in/franklemuchahary03/
