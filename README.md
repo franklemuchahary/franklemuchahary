@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Frankle and I have 5+ years of experience working as a Data Scientist. I have worked on a wide range of retail analytics problems in the past few years related to **pricing optimization**, **promotion optimization**, **coupon redemption propensity analysis**, **customer churn analysis**, and **inventory allocation optimization**. More recently, I have been working on building Generative AI-powered customer-facing features for SaaS products.
+I'm Frankle and I have 5+ years of experience working as a Data Scientist. I have worked on a wide range of data science and analytics problems in the past few years related to **recommendation systems**, **pricing optimization**, **promotion optimization**, **coupon redemption propensity analysis**, **customer churn analysis**, and **inventory allocation optimization**. More recently, I have been working on building Generative AI-powered customer-facing features for SaaS products.
 
 I am proficient in technologies like **PostgreSQL**, **BigQuery**, **MySQL**, **Python**, **R**, **PHP**, **C#**, **.NET**, **Tableau**, and **MS Excel**. I also have some knowledge of **Bash Scripting** and some experience in **backend development using Python, .NET, and PHP**. I enjoy automating basic repetitive tasks with Python.
 
